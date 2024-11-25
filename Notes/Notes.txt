@@ -1,0 +1,85 @@
+SPA
+
+JavaScript Libraries
+
+Collection of API's, targeted to do only one kind of JOB
+
+Axios (AJAX Calls)
+jQuery (DOM Manipulation / AJAX)
+Chart JS (Data Visual.)
+Sammy JS (Routing)
+
+JavaScript Frameworks
+
+Collection of API's, will help to create Application
+
+Angular
+Code Structuring
+Rules
+
+
+M V C
+
+M V P
+
+M V VM
+
+A library offers functions to be called by its parent code, whereas a framework defines the entire application design.
+
+A developer does not call a framework; instead, the framework calls and uses the code in some particular way.
+
+<% Template %>		HTML
+
+{{ }}
+
+JSX			HTML
+
+Component (UI Encapsulation)
+
+	UI (View)
+	CSS (Styles)
+	
+	Behavior (Code/Logic)
+	
+	Data (Inside) - State
+	Data (Outside) - Props
+
+-------------------------------------------------------------
+
+npm install -g create-react-app
+
+mkdir Day1
+cd Day1
+
+create-react-app react-core
+
+cd react-core
+
+To Run the application - npm start
+
+To Build the application - npm run build
+
+To Eject the application configuration - npm run eject
+
+-------------------------------------------------------------------
+
+npx create-react-app react-core
+
+cd react-core
+
+To Run the application - npm start
+
+To Build the application - npm run build
+
+To Eject the application configuration - npm run eject
+
+
+
+
+
+
+
+
+
+
+

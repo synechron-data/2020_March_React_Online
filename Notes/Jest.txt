@@ -1,0 +1,18 @@
+Built on top of Jasmine/Mocha  (describe, test)
+Add Snapshot Testing, Mocking
+Superior Assertion Library, CLI
+Works with or without React
+
+Enzyme or @testing-library/react
+Provides you tools to test React apps
+Express component output as HTML
+Works only for react
+
+			Jest			Mocha
+
+Run Tests		Yes			Yes
+Asynchronous		Yes			Yes
+Spies included		Yes			No (Sinon)
+Snapshot Testing	Yes			No
+Module Mocking		Yes			No
+
